@@ -10,10 +10,10 @@ const Hero = () => {
             HODL On, We're Going to the Moon!
           </h1>
           <div className="flex flex-col md:flex-row gap-5 b-red-500">
-            <a href="" className="text-3xl px-5 py-3 bg-secondary text-white">
+            <a href="https://birdeye.so/token/DcoTTEL3T9T9vm9D4DL2RNe7gDSqVytzydEZWcTdp48m?chain=solana" className="text-3xl px-5 py-3 bg-secondary text-white">
               buy now
             </a>
-            <a href="" className="text-3xl px-5 py-3 bg-third text-white">
+            <a href="https://dexscreener.com/solana/DcoTTEL3T9T9vm9D4DL2RNe7gDSqVytzydEZWcTdp48m" className="text-3xl px-5 py-3 bg-third text-white">
               view chart
             </a>
             <a
