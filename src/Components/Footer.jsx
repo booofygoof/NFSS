@@ -12,9 +12,6 @@ const Footer = () => {
         <a href="https://t.me/+GiMpDkGdnkVhN2Ex">
           <FaTelegramPlane className="text-primary" size={52} />
         </a>
-        <a href="mailto:neverselling@gmail.com">
-          <MdMail className="text-primary" size={52} />
-        </a>
       </div>
     </footer>
   );
