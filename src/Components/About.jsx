@@ -8,7 +8,7 @@ const About = () => {
           about us!
         </h1>
         <p className="text-2xl tracking-widest">
-          Welcome to the whimsical realm of 'Never F**king Seling' (NFS), where
+          Welcome to the whimsical realm of 'Never F**king Seling' (NFS) on solana, where
           we throw financial sanity out the window and embrace a warm, fuzzy
           blanket of sheer lunacy.
         </p>
