@@ -16,14 +16,14 @@ const Header = () => {
         </a>
         <div className="hidden lg:flex gap-5">
           <a
-            href="https://t.me/NeverFuckingSellingportal"
+            href="https://t.me/+GiMpDkGdnkVhN2Ex"
             className="flex items-center text-3xl gap-3"
           >
             <TbBrandTelegram className="text-white" />
             telegram
           </a>
           <a
-            href="https://twitter.com/NeverFuckingSel"
+            href="https://twitter.com/NeverFcknSell"
             className="-rotate-2 flex items-center text-3xl gap-3"
           >
             <BsTwitter className="text-white" />
@@ -31,7 +31,7 @@ const Header = () => {
           </a>
           <a href="" className="flex items-center outlinet  text-3xl gap-3">
             <TiChartLine className="text-white" />
-            dextools
+            BIRDEYE
           </a>
         </div>
       </div>
