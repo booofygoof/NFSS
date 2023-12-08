@@ -18,7 +18,7 @@ const Features = () => {
           <p className="text-3xl md:text-4xl">
             ca:{" "}
             <span className=" block md:inline">
-              0x8152ee32f634781c72de62b086728f2c40b9ac60
+              soon
             </span>
           </p>
           <p className="text-3xl md:text-4xl">
