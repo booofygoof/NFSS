@@ -29,7 +29,7 @@ const Header = () => {
             <BsTwitter className="text-white" />
             twitter
           </a>
-          <a href="" className="flex items-center outlinet  text-3xl gap-3">
+          <a href="https://birdeye.so/token/DcoTTEL3T9T9vm9D4DL2RNe7gDSqVytzydEZWcTdp48m?chain=solana" className="flex items-center outlinet  text-3xl gap-3">
             <TiChartLine className="text-white" />
             BIRDEYE
           </a>
